@@ -1,5 +1,6 @@
-### Olá! Eu sou a Camila Gonçalves e esse é o meu universo da programação. 
-## Seja bem vindo e fique à vontade para ver meus projetos.
+## Olá! 🙋🏻‍♀️ Eu sou a Camila Gonçalves
+## E esse é o meu universo da programação 🌎 
+### Seja bem vindo e fique à vontade para ver meus projetos 🖳
 <!--
 **CamilaVerso/CamilaVerso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

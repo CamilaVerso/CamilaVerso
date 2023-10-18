@@ -1,6 +1,8 @@
-### Olá! Eu sou a Camila Gonçalves e esse é o meu universo da programação. Seja bem vindo e fique á vontade para ver meus projetos.
+### Olá! Eu sou a Camila Gonçalves e esse é o meu universo da programação. 
+## Seja bem vindo e fique à vontade para ver meus projetos.
 <!--
 **CamilaVerso/CamilaVerso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats-dun-rho-20.vercel.app/api/top-langs/?username=CamilaVerso&layout=compact&theme=tokyonight&)](https://github.com/CamilaVerso/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats-dun-rho-20.vercel.app/api?username=CamilaVerso&count_private=true&layout=compact&theme=tokyonight&show_icons=true)

@@ -32,8 +32,8 @@ Formada em Desenvolvimento Web pela [<Laboratória>](https://www.laboratoria.la/
 
 <div align="center">
 <a href="https://github.com/CamilaVerso">
-<img height="180em" src="https://github-readme-stats-dun-rho-20.vercel.app/api/top-langs/?username=CamilaVerso&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats-dun-rho-20.vercel.app/api?username=CamilaVerso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-dun-rho-20.vercel.app/api/top-langs/?username=&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-dun-rho-20.vercel.app/api?username=&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CamilaVerso&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>

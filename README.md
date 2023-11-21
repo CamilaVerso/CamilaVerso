@@ -31,7 +31,7 @@ Formada em Desenvolvimento Web pela [<Laboratória>](https://www.laboratoria.la/
 ##
 
 <div align="center">
-<a href="https://github.com/CamilaVerso">
+<a href="[https://github.com/CamilaVerso](https://github.com/CamilaVerso)">
 <img height="180em" src="https://github-readme-stats-dun-rho-20.vercel.app/api/top-langs/?username=CamilaVerso&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats-dun-rho-20.vercel.app/api?username=CamilaVerso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>

@@ -1,7 +1,7 @@
 # Olá! 🙋🏻‍♀️ Eu sou a Camila Gonçalves
 E esse é o meu Multiverso da programação 🌎 <br>
 Seja bem vindo e fique à vontade para ver meus projetos 🖳 <br>
-Atualmente estou cursando Tecnologia da Informação na [Univesp](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao) e o Bootcamp Vem Ser Tech [Ada | Ifood](https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech).<br>
+Atualmente estou cursando Tecnologia da Informação na [Univesp](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao) e o Bootcamp Vem Ser Tech [Ada | Ifood](https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech). Além de estar estudando SQL, Phyton, Data Science no OCI e Oracle Analytics pelo bootcamp da Alura - Oracle ONE <br>
 Formada em Desenvolvimento Web pela [<Laboratória>](https://www.laboratoria.la/br) e [Alura](https://www.alura.com.br/)
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CamilaVerso.CamilaVerso&left_color=cornflowerblue&right_color=magenta"  />

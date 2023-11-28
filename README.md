@@ -5,6 +5,7 @@ Atualmente estou cursando Tecnologia da Informação na [Univesp](https://unives
 Formada em Desenvolvimento Web pela [<Laboratória>](https://www.laboratoria.la/br) e [Alura](https://www.alura.com.br/)
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CamilaVerso.CamilaVerso&left_color=cornflowerblue&right_color=magenta"  />
+  <img src="https://www.codewars.com/users/CamilaVerso/badges/small"/>
 
 
 ##

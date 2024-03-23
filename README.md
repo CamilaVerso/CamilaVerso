@@ -3,7 +3,7 @@ E esse é o meu Multiverso da programação 🌎 <br>
 Seja bem vindo e fique à vontade para ver meus projetos 🖳 <br>
 Atualmente estou cursando Tecnologia da Informação na [Univesp](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao). <br>
 Formada em Desenvolvimento Web pela [<Laboratória>](https://www.laboratoria.la/br) e [Alura](https://www.alura.com.br/). <br>
-Estagiária na [DBC](https://www.dbccompany.com.br/vem-ser/) da trilha de Front e atualmente na Formações complementar de QA.
+Estagiária na [DBC](https://www.dbccompany.com.br/vem-ser/) da trilha de Front e atualmente na Formação complementar de QA.
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CamilaVerso.CamilaVerso&left_color=cornflowerblue&right_color=magenta"  />
   <img src="https://www.codewars.com/users/CamilaVerso/badges/small"/>
